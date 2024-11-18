@@ -62,8 +62,14 @@
         <mxCell id="x1ybeywPJGnZJCuqkX0z-10" value="Menu Loaded?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x1ybeywPJGnZJCuqkX0z-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1ybeywPJGnZJCuqkX0z-14" target="x1ybeywPJGnZJCuqkX0z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-14" value="Select Gamemode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-18" value="Gamemide" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
