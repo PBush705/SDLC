@@ -176,11 +176,32 @@
         <mxCell id="x1ybeywPJGnZJCuqkX0z-58" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x1ybeywPJGnZJCuqkX0z-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-59" value="send to other side" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x1ybeywPJGnZJCuqkX0z-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-60" value="add score to opponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1ybeywPJGnZJCuqkX0z-61" target="x1ybeywPJGnZJCuqkX0z-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-61" value="Win?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-670" y="860" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1ybeywPJGnZJCuqkX0z-62" target="x1ybeywPJGnZJCuqkX0z-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-62" value="display results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-480" y="860" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-64" value="send to menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1ybeywPJGnZJCuqkX0z-66" target="x1ybeywPJGnZJCuqkX0z-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1ybeywPJGnZJCuqkX0z-66" value="Win if player has score of 11" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-675" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
