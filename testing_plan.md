@@ -6,9 +6,10 @@
 
         - The WASD keys correspond with up down left and right arrow keys on the keyboard, and each key will correspond to the direction it represents. For example, the left key and “a” key will curve the ball to a leftward direction, and the up arrow and “w” key will move the paddle upwards.
 
--**Collision Detection**: The game should detect when the ball hits the paddles or hits one of the horizontal sides of the screen (that will score a point).
--Gaining abilities: the game should be able to detect when the ball collects a power up and who hit the ball last to know who the power up goes to.
-    -Make sure the power ups have a decent amount of space surrounding its image so that the ball doesn’t “miss it” when it is close enough to collect it.
+- **Collision Detection**: The game should detect when the ball hits the paddles or hits one of the horizontal sides of the screen (that will score a point).
+
+- **Gaining abilities**: the game should be able to detect when the ball collects a power up and who hit the ball last to know who the power up goes to.
+        - Make sure the power ups have a decent amount of space surrounding its image so that the ball doesn’t “miss it” when it is close enough to collect it.
 
 -**Ball movement**: the ball should be able to curve or/and move linearly and diagonally based on how the player hits it with the “paddle”. After a point is scored, the ball should shoot from the middle to the direction of the player who scored the last point. It starts off at a speed of 10 px per second until a charge up power up is gained and over time the ball speed will increase by 1 px per second every 5 seconds.
 
