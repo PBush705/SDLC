@@ -2,8 +2,10 @@
 
 ## Part 1. Unit Testing the Game Mechanics
 
--**Movement**: Players should only be able to move the paddle on their side up and down at a constant smooth speed. The paddle initially starts at the center(vertically) but close to the side that pertains to the player. The game should also detect the direction of the curvature of the ball that each player indicates by either swiping or pressing on the direction keys (WASD and arrow keys).
-    -The WASD keys correspond with up down left and right arrow keys on the keyboard, and each key will correspond to the direction it represents. For example, the left key and “a” key will curve the ball to a leftward direction, and the up arrow and “w” key will move the paddle upwards.
+- **Movement**: Players should only be able to move the paddle on their side up and down at a constant smooth speed. The paddle initially starts at the center(vertically) but close to the side that pertains to the player. The game should also detect the direction of the curvature of the ball that each player indicates by either swiping or pressing on the direction keys (WASD and arrow keys).
+
+        - The WASD keys correspond with up down left and right arrow keys on the keyboard, and each key will correspond to the direction it represents. For example, the left key and “a” key will curve the ball to a leftward direction, and the up arrow and “w” key will move the paddle upwards.
+
 -**Collision Detection**: The game should detect when the ball hits the paddles or hits one of the horizontal sides of the screen (that will score a point).
 -Gaining abilities: the game should be able to detect when the ball collects a power up and who hit the ball last to know who the power up goes to.
     -Make sure the power ups have a decent amount of space surrounding its image so that the ball doesn’t “miss it” when it is close enough to collect it.
