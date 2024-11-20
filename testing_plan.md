@@ -11,7 +11,7 @@
 - **Gaining abilities**: the game should be able to detect when the ball collects a power up and who hit the ball last to know who the power up goes to.
         - Make sure the power ups have a decent amount of space surrounding its image so that the ball doesn’t “miss it” when it is close enough to collect it.
 
--**Ball movement**: the ball should be able to curve or/and move linearly and diagonally based on how the player hits it with the “paddle”. After a point is scored, the ball should shoot from the middle to the direction of the player who scored the last point. It starts off at a speed of 10 px per second until a charge up power up is gained and over time the ball speed will increase by 1 px per second every 5 seconds.
+- **Ball movement**: the ball should be able to curve or/and move linearly and diagonally based on how the player hits it with the “paddle”. After a point is scored, the ball should shoot from the middle to the direction of the player who scored the last point. It starts off at a speed of 10 px per second until a charge up power up is gained and over time the ball speed will increase by 1 px per second every 5 seconds.
 
 ## Part 2. Logic Testing the Game Rules and Calculations Description
 
